@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class problem11 {
+public class problem1 {
     // Function to find minimum in array using recursion
     public static int findMin(int[] arr, int index) {
         // Base case: if the array consists of one element, it is the minimum
