@@ -1,0 +1,24 @@
+This project contains solutions to 10 Java problems.
+Each solution includes detailed comments explaining how the code works.
+
+#  Problem Descriptions
+This repository includes 10 Java problems with solutions:
+
+1. Problem1.java – Calculating the factorial of a number using recursion.
+2. Problem2.java – Sorting an array using the bubble sort algorithm.
+3. Problem3.java – Finding the maximum element in an array.
+4. Problem4.java – Checking if a given string is a palindrome.
+5. Problem5.java – Finding Fibonacci numbers using recursion.
+6. Problem6.java – Counting the occurrences of a character in a string.
+7. Problem7.java – Reversing a string without using built-in functions.
+8. Problem8.java – Implementing binary search on a sorted array.
+9. Problem9.java – Checking if a number is prime.
+10. Problem10.java – Finding the greatest common divisor (GCD) of two numbers using the Euclidean algorithm.
+
+#  How to Run the Code?
+To run the code on your computer, follow these steps:
+
+1. Install Java (if not already installed)**
+Download and install **JDK 17** (or later) from the [official Oracle website](https://www.oracle.com/java/technologies/javase-downloads.html).
+
+2. Compile and Run Any Problem**
